@@ -71,3 +71,11 @@ def test_main_writes_page(tmp_path: Path):
     src.write_text(FEED, encoding="utf-8")
     render_html.main(["--feed", str(src), "--out", str(out)])
     assert out.read_text(encoding="utf-8").startswith("<!doctype html>")
+
+
+def test_footer_credits_thechels_and_has_no_internal_notes():
+    html = render_html.render(render_html.parse_feed(FEED))
+    footer = html[html.index("<footer>"):html.index("</footer>")]
+    assert 'Made by <a href="https://thechels.uk">thechels.uk</a>' in footer
+    assert "estimate" not in footer.lower()
+    assert "image path" not in footer.lower()

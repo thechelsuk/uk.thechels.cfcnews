@@ -99,7 +99,7 @@ def render(feed: dict) -> str:
 <main>
 {body}
 </main>
-<footer><p>Unofficial. Links go to chelseafc.com. Dates are estimates from image paths.</p></footer>
+<footer><p>Unofficial: every headline links to the story on chelseafc.com. Made by <a href="https://thechels.uk">thechels.uk</a></p></footer>
 </body>
 </html>
 """
