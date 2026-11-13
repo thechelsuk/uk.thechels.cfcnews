@@ -12,9 +12,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # Set the SITE_URL repository variable (for example https://cfcnews.thechels.uk) once the custom domain is live.
-      SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
     steps:
       - uses: actions/checkout@v7
 
@@ -26,7 +23,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate feed
-        run: python3 chelsea_rss.py --out docs/feed.xml --limit 30 --self-url "$SITE_URL/feed.xml"
+        # The site's address comes from docs/CNAME (the Pages custom domain), else the github.io address.
+        # data/dates.json keeps each article's real publish date, so only new articles are fetched.
+        run: |
+          if [ -s docs/CNAME ]; then SITE_URL="https://$(tr -d '[:space:]' < docs/CNAME)"; else SITE_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"; fi
+          mkdir -p data
+          python3 chelsea_rss.py --out docs/feed.xml --limit 30 --self-url "$SITE_URL/feed.xml" --dates data/dates.json
 
       - name: Render the page from the feed
         run: python3 render_html.py --feed docs/feed.xml --out docs/index.html
@@ -35,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/index.html
+          git add docs/feed.xml docs/index.html data/dates.json
           if git diff --cached --quiet; then
             echo "No changes."
           else

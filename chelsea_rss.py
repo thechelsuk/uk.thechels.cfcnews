@@ -31,9 +31,12 @@ Usage:
 
 import argparse
 import hashlib
+import html
+import json
 import re
 import sys
 from datetime import datetime, timezone
+from pathlib import Path
 from xml.sax.saxutils import escape
 
 import requests
@@ -123,7 +126,78 @@ def extract_published(item: dict, now_str: str) -> tuple[str, str]:
     return now_str, "fallback-now"
 
 
-def normalise(item: dict, now_str: str) -> dict:
+# ------------------------------------------------------------------ real dates
+# The listing API has no publish date, but each article page does: the ArticleHeader component's data-props hold
+# articleHeaderDetails.date. Each new article is fetched once and its date kept in a small JSON cache, so a run
+# only fetches the handful of new stories. Video pages have no date and keep the estimate.
+
+ARTICLE_DATE_RE = re.compile(r'"articleHeaderDetails":\{.*?"date":"([^"]+)"', re.S)
+
+
+def article_date(page: str) -> str | None:
+    """The article's publish date from its page, as RFC 3339 UTC, or None."""
+    m = ARTICLE_DATE_RE.search(html.unescape(page))
+    if not m:
+        return None
+    raw = m.group(1).encode().decode("unicode_escape")  # \u002B is "+"
+    raw = re.sub(r"(\.\d+)", lambda f: f.group(1)[:7], raw)  # Python takes up to 6 fraction digits
+    try:
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def fetch_page(url: str) -> str:
+    resp = requests.get(url, headers={**HEADERS, "Accept": "text/html"}, timeout=15)
+    resp.raise_for_status()
+    return resp.text
+
+
+def _link(item: dict) -> str:
+    rel_url = item.get("url", "")
+    return rel_url if rel_url.startswith("http") else SITE_BASE + rel_url
+
+
+def _item_id(item: dict) -> str:
+    return item.get("id") or hashlib.sha1(_link(item).encode()).hexdigest()
+
+
+def resolve_dates(items: list[dict], cache: dict, fetch=fetch_page, max_fetch: int = 40) -> dict:
+    """Adds the real date for each item not yet in the cache. A failed fetch is retried next run; a page without a
+    date is remembered so it isn't fetched again."""
+    fetched = 0
+    for item in items:
+        item_id = _item_id(item)
+        if item_id in cache or fetched >= max_fetch:
+            continue
+        fetched += 1
+        try:
+            page = fetch(_link(item))
+        except Exception as e:  # network or HTTP error: try again next run
+            print(f"WARNING: no page for {_link(item)}: {e}", file=sys.stderr)
+            continue
+        date = article_date(page)
+        cache[item_id] = {"date": date, "source": "article" if date else "none"}
+    return cache
+
+
+def load_dates(path) -> dict:
+    try:
+        return json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def save_dates(path, cache: dict, keep) -> None:
+    """Writes the cache, keeping only the items still in the feed."""
+    kept = {k: v for k, v in cache.items() if k in set(keep)}
+    Path(path).write_text(json.dumps(kept, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def normalise(item: dict, now_str: str, dates: dict | None = None) -> dict:
     """Map a Chelsea API item to standard feed fields."""
     rel_url = item.get("url", "")
     link = rel_url if rel_url.startswith("http") else SITE_BASE + rel_url
@@ -142,7 +216,11 @@ def normalise(item: dict, now_str: str) -> dict:
 
     item_id = item.get("id") or hashlib.sha1(link.encode()).hexdigest()
 
-    published, method = extract_published(item, now_str)
+    known = (dates or {}).get(item_id) or {}
+    if known.get("date"):
+        published, method = known["date"], "article"
+    else:
+        published, method = extract_published(item, now_str)
 
     return {
         "id": item_id,
@@ -156,12 +234,12 @@ def normalise(item: dict, now_str: str) -> dict:
     }
 
 
-def build_atom(items: list[dict], self_url: str) -> str:
+def build_atom(items: list[dict], self_url: str, dates: dict | None = None) -> str:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     entries = []
     for it in items:
-        n = normalise(it, now)
+        n = normalise(it, now, dates)
         summary_bits = [n["type"], n["category"], f"date-source:{n['date_method']}"]
         summary = " / ".join(b for b in summary_bits if b)
         thumb_link = (
@@ -203,6 +281,11 @@ def main():
         default="",
         help="Public URL this feed will be served at (used for the atom:link rel=self tag)",
     )
+    parser.add_argument(
+        "--dates",
+        default="",
+        help="JSON cache of real publish dates read from article pages (fetched once per new article)",
+    )
     args = parser.parse_args()
 
     try:
@@ -214,7 +297,12 @@ def main():
     if not items:
         print("WARNING: no items returned - check API response shape.", file=sys.stderr)
 
-    xml = build_atom(items, args.self_url)
+    dates = None
+    if args.dates:
+        dates = resolve_dates(items, load_dates(args.dates))
+        save_dates(args.dates, dates, keep=[_item_id(i) for i in items])
+
+    xml = build_atom(items, args.self_url, dates)
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(xml)
 
