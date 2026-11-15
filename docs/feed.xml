@@ -4,15 +4,51 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-15T12:14:32Z</updated>
+  <updated>2026-11-15T18:57:53Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>JT, Azpi and Di Matteo reflect on amazing Chelsea careers</title>
+    <title>Analysis: How Bronze, Baltimore and defensive resilience inspired Chelsea Women to key win</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/analysis-how-bronze-baltimore-and-defensive-resilience-inspired-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794759946/editorial/news/2026/11/15/HAT18905_dUABOX4C_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2GXAqBeghAhfb9egEG5yc7</id>
+    <published>2026-11-15T17:00:00Z</published>
+    <updated>2026-11-15T18:57:53Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Sonia Bompastor challenges Chelsea to build on Man City victory</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/sonia-bompastor-challenges-chelsea-to-build-on-man-city-victory"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794754910/editorial/news/2026/11/15/IW1_9714.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5HDz8xSG2mMr8jKwTD5GZB</id>
+    <published>2026-11-15T15:00:00Z</published>
+    <updated>2026-11-15T18:57:53Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Favourite late winners: The semi-final results!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/favourite-late-winners-the-semi-final-results"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794752925/editorial/news/2026/11/15/GettyImages-2138994566.jpg"/>
+    <id>tag:chelseafc.com,2026:news:ACGp0eyFgbVLkfXsEHmOG</id>
+    <published>2026-11-15T14:20:00Z</published>
+    <updated>2026-11-15T18:57:53Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Wieke Kaptein: We can take confidence from Man City victory</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/wieke-kaptein-we-can-take-confidence-from-man-city-victory"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794747576/editorial/news/2026/11/15/GettyImages-2305098599.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4jcNn5zwwMstcwUp4CGBrT</id>
+    <published>2026-11-15T13:00:00Z</published>
+    <updated>2026-11-15T18:57:53Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>JT, Azpi and Di Matteo reflect on amazing Chelsea careers </title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/foundation-gala-with-terry-azpilicueta-and-di-matteo"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794615657/video/2026/11/14/261111_FOUNDATION_GALA_TERRY_AZPI_DIMATTEO_V3_v2.jpg"/>
     <id>tag:chelseafc.com,2026:news:14B8BVFnu6IXvFxbSFADgK</id>
     <published>2026-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -21,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794733043/editorial/news/2026/11/15/GettyImages-2305106026.jpg"/>
     <id>tag:chelseafc.com,2026:news:1wFMOwenigguu5gu5llb1u</id>
     <published>2026-11-15T08:50:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -30,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1763120252/video/2025/11/14/west_brom_otd_2008.jpg"/>
     <id>tag:chelseafc.com,2026:news:ukTfgFcxrQlkvRGwblyg9</id>
     <published>2025-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -39,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794569703/editorial/news/2026/11/13/16x9-zola-1997-fa-cup-semi-final.jpg"/>
     <id>tag:chelseafc.com,2026:news:5aFwSbLZagwokrSG7jvNjD</id>
     <published>2026-11-15T06:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -48,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794694490/GettyImages-2305103116_jeumv5.jpg"/>
     <id>tag:chelseafc.com,2026:news:4VA8ADNEXNInflJ6PJfHGt</id>
     <published>2026-11-14T22:20:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -57,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794678154/video/2026/11/14/FULL_MATCH.png"/>
     <id>tag:chelseafc.com,2026:news:vKPXRvji1c8nvll9DMtRC</id>
     <published>2026-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -66,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794681671/HAT12362_mf2UAxc1_copy_kdolrp.jpg"/>
     <id>tag:chelseafc.com,2026:news:6SJs8Nc5teQFBjSLx559Fh</id>
     <published>2026-11-14T19:30:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -75,43 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794678002/video/2026/11/14/HIGHLIGHTS.png"/>
     <id>tag:chelseafc.com,2026:news:1qNjL4tTPQnhcY4ow6ehUD</id>
     <published>2026-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
+    <updated>2026-11-15T18:57:53Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Gallery: Baltimore's screamer fires Blues to top of the WSL!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/gallery-baltimores-screamer-fires-blues-to-top-of-the-league"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794682296/GettyImages-2305107552_wkcrmd.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2FM5rbbP0nJqkpqeIrJoQK</id>
-    <published>2026-11-14T19:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>'It's a great feeling to be top of the table'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/sonia-bompastor-post-manchester-city-wsl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794693113/video/2026/11/14/REACTIONS_1.png"/>
-    <id>tag:chelseafc.com,2026:news:4TvF8qlROz2B68M421Jh0N</id>
-    <published>2026-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>'It's nice that we kept a clean sheet'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/buurman-post-manchester-city-wsl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794693112/video/2026/11/14/REACTIONS_2.png"/>
-    <id>tag:chelseafc.com,2026:news:1l8ManQwUHSs192hSdJFkw</id>
-    <published>2026-11-14T00:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Sonia Bompastor praises Chelsea character after Man City victory</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-praises-chelsea-character-after-man-city-victory"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794678111/IW1_3175_og05ar.jpg"/>
-    <id>tag:chelseafc.com,2026:news:OhlA2LMu9JlH95Vg6d7IW</id>
-    <published>2026-11-14T18:00:00Z</published>
-    <updated>2026-11-15T12:14:32Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
   </entry>
 </feed>
