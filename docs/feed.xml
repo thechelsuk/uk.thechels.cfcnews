@@ -4,15 +4,60 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-18T11:29:13Z</updated>
+  <updated>2026-11-18T19:33:10Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Confirmed Chelsea Women line up vs PSG</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-psg"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795025897/editorial/women%27s-team/Match%20Reports/2026-27/PSG%20%28H%29/Chelsea_Women_shirts_vs_PSG.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4kmSi1H3WMQSzqSnUSljFM</id>
+    <published>2026-11-18T18:45:00Z</published>
+    <updated>2026-11-18T19:33:10Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Training gallery: All eyes on Leeds as international stars return</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-all-eyes-on-leeds-as-international-stars-return"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795011627/DAR_1780_1_pinesg.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6ZQhTZS6NNrhys9B02yydr</id>
+    <published>2026-11-18T15:30:00Z</published>
+    <updated>2026-11-18T19:33:10Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Chelsea vs Leeds preview: TV channel, kick-off time and how to watch</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-leeds-preview-tv-channel-kick-off-time-and-how-to-watch-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794930900/editorial/news/2026/11/17/GettyImages-2294383656.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5s0g9sr2CaSUUAELskqtv</id>
+    <published>2026-11-18T14:00:00Z</published>
+    <updated>2026-11-18T19:33:10Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Cuthbert taking confidence from team-mates’ quality for ‘proper Champions League night’</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/cuthbert-taking-confidence-from-team-mates-quality-for-proper-champions"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794923534/editorial/news/2026/11/17/HAT25351_IrHnABfk.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5UgBcitEugpOHIXpty7iBJ</id>
+    <published>2026-11-18T13:00:00Z</published>
+    <updated>2026-11-18T19:33:10Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>The final preparations</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/chelsea-women-vs-psg-or-training"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795003818/video/2026/11/18/GettyImages-2305510772.jpg"/>
+    <id>tag:chelseafc.com,2026:news:62xaSeKVRA5acdB5k8XzhG</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-18T19:33:10Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Internationals: Martinez returns and Anselmino debuts in huge Argentina win</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-martinez-returns-and-anselmino-debuts-in-huge-argentina-win"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794996985/editorial/news/2026/11/18/GettyImages-2305622882.jpg"/>
     <id>tag:chelseafc.com,2026:news:5aqlLIqgITPE7bTHDAx1Ce</id>
     <published>2026-11-18T10:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Article / Internationals / date-source:article</summary>
   </entry>
   <entry>
@@ -21,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794849233/video/2026/11/16/261118-ClassicMatch-WestBrom.jpg"/>
     <id>tag:chelseafc.com,2026:news:3uhruVSs9lhCfnTJrTXbJd</id>
     <published>2026-11-16T00:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -30,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1755797906/editorial/news/2025/08/21/Mata_GettyImages-169052408.jpg"/>
     <id>tag:chelseafc.com,2026:news:36PEMYBqvVpTEfDVgaSIUn</id>
     <published>2026-11-18T08:50:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -39,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794995571/video/2026/11/18/GettyImages-154873706.jpg"/>
     <id>tag:chelseafc.com,2026:news:mTA65T9tsFllW0THj2WRW</id>
     <published>2026-11-18T00:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -48,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1765533979/editorial/stadium-views/other-clubs/Etihad_Stadium_aerial_view_November_2025.jpg"/>
     <id>tag:chelseafc.com,2026:news:5gyF9OJ24XpJ1jCTLiGOh</id>
     <published>2026-11-17T09:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -57,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794935248/editorial/merchandise/Christmas%202026/2026_Foundation-Christmas-donation-article-men.jpg"/>
     <id>tag:chelseafc.com,2026:news:38IsZzTdKWb2AJQufil8DE</id>
     <published>2026-11-18T06:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Article / Foundation / date-source:article</summary>
   </entry>
   <entry>
@@ -66,52 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1763389735/video/2025/11/17/GEREMU_OTD.jpg"/>
     <id>tag:chelseafc.com,2026:news:4cpuilEjOcNvLHCHSwVnAr</id>
     <published>2025-11-17T00:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
+    <updated>2026-11-18T19:33:10Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Neto scores as Quenda and Antwi make debuts</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-neto-scores-as-quenda-and-antwi-make-debuts"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794952740/editorial/news/2026/11/17/GettyImages-2305097826.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5ZL7aX2GJ3ChYJhcnF5fzf</id>
-    <published>2026-11-17T22:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
-    <summary>Article / Internationals / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Key talking points from Bompastor and Cuthbert's pre-Paris Saint-Germain press conference</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/key-talking-points-from-bompastor-and-cuthberts-pre-paris-saint-germain"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794923311/editorial/news/2026/11/17/HL3_1069_RYWBhdyi.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1vIM3byM4gfYzJSmaByD8j</id>
-    <published>2026-11-17T17:45:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Bompastor Press Conference 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/bompastor-press-conference-pre-psg-h-uwcl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794929641/video/2026/11/16/261117-Womens-ChelseaVPSG.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3XdDwcnSy3XAupfVT1vA49</id>
-    <published>2026-11-16T00:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Back to it at Cobham</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-back-to-it-at-cobham"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794932172/editorial/news/2026/11/17/DAZ_4483.jpg"/>
-    <id>tag:chelseafc.com,2026:news:31U0u0SgmCwHWi94ilqSOb</id>
-    <published>2026-11-17T17:00:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Bompastor updates on Buchanan, Dragoni, Malard and Matsukubo ahead of PSG</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-updates-on-buchanan-dragoni-malard-and-matsukubo-ahead-of-psg"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794932786/editorial/news/2026/11/17/HAT27836_BvoqR4dl.jpg"/>
-    <id>tag:chelseafc.com,2026:news:124U2LIhJDSvF3Vz7lWzzw</id>
-    <published>2026-11-17T16:30:00Z</published>
-    <updated>2026-11-18T11:29:13Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
   </entry>
 </feed>
