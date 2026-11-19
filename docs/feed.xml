@@ -4,15 +4,78 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-18T19:33:10Z</updated>
+  <updated>2026-11-19T01:28:13Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>'Everyone is working really hard for us not to concede'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/sonia-bompastor-post-chelsea-1-0-psg-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795045475/video/2026/11/18/16x9_Bompastor_post-Chelsea_Women_1-0_PSG_Women_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3bV22L81hWoq1IQzxkeAPO</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'I was delighted for Veerle'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/aggie-beever-jones-post-chelsea-1-0-psg-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795045380/video/2026/11/18/16x9_Beever-Jones_post-Chelsea_Women_1-0_PSG_Women_UWCL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4cr6tkaJdc7mWtyfv9gkbm</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Bompastor: Everyone in the team loves to defend</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-everyone-in-the-team-loves-to-defend"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795043680/editorial/women%27s-team/Match%20Reports/2026-27/PSG%20%28H%29/Sonia_Bompastor_Chelsea_Women_vs_PSG.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5iMjvmmmLqU3V9nJ6z3R7p</id>
+    <published>2026-11-18T23:41:36Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>UWCL Highlights: Chelsea Women 1-0 PSG Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-highlights-chelsea-women-1-0-psg-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795040620/video/2026/11/18/ChelsVPSG-Highlights.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2387xsbLPB9g3lf6QItYOa</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>UWCL Extended Highlights: Chelsea Women 1-0 PSG Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-extended-highlights-chelsea-women-1-0-psg-women-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795040620/video/2026/11/18/ChelsVPSG-Highlights.EXT.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5PBWbDyDc7Ts6Ik8EtqglW</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>UWCL Full Match: Chelsea Women vs PSG Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/uwcl-full-match-chelsea-women-vs-psg-women-or-uwcl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795040620/video/2026/11/18/ChelsVPSG-Highlights.FULL.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6rFRPnOf9msdR0Z9lDMOYi</id>
+    <published>2026-11-18T00:00:00Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Match report: Chelsea Women 1-0 Paris Saint-Germain</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-women-1-0-paris-saint-germain"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795040930/editorial/women%27s-team/Match%20Reports/2026-27/PSG%20%28H%29/Chelsea_Women_celebrate_vs_PSG.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3gqhXcMYBXMibKvXobJlcX</id>
+    <published>2026-11-18T22:36:39Z</published>
+    <updated>2026-11-19T01:28:13Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
   <entry>
     <title>Confirmed Chelsea Women line up vs PSG</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-psg"/>
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795025897/editorial/women%27s-team/Match%20Reports/2026-27/PSG%20%28H%29/Chelsea_Women_shirts_vs_PSG.jpg"/>
     <id>tag:chelseafc.com,2026:news:4kmSi1H3WMQSzqSnUSljFM</id>
     <published>2026-11-18T18:45:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
+    <updated>2026-11-19T01:28:13Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -21,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795011627/DAR_1780_1_pinesg.jpg"/>
     <id>tag:chelseafc.com,2026:news:6ZQhTZS6NNrhys9B02yydr</id>
     <published>2026-11-18T15:30:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
+    <updated>2026-11-19T01:28:13Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -30,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794930900/editorial/news/2026/11/17/GettyImages-2294383656.jpg"/>
     <id>tag:chelseafc.com,2026:news:5s0g9sr2CaSUUAELskqtv</id>
     <published>2026-11-18T14:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
+    <updated>2026-11-19T01:28:13Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -39,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794923534/editorial/news/2026/11/17/HAT25351_IrHnABfk.jpg"/>
     <id>tag:chelseafc.com,2026:news:5UgBcitEugpOHIXpty7iBJ</id>
     <published>2026-11-18T13:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
+    <updated>2026-11-19T01:28:13Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -48,70 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795003818/video/2026/11/18/GettyImages-2305510772.jpg"/>
     <id>tag:chelseafc.com,2026:news:62xaSeKVRA5acdB5k8XzhG</id>
     <published>2026-11-18T00:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Internationals: Martinez returns and Anselmino debuts in huge Argentina win</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/internationals-martinez-returns-and-anselmino-debuts-in-huge-argentina-win"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794996985/editorial/news/2026/11/18/GettyImages-2305622882.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5aqlLIqgITPE7bTHDAx1Ce</id>
-    <published>2026-11-18T10:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Article / Internationals / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>OTD: Classic Match | West Brom 0-4 Chelsea </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-classic-match-west-bromwich-albion-0-4-chelsea-premier-league-2017-18"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794849233/video/2026/11/16/261118-ClassicMatch-WestBrom.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3uhruVSs9lhCfnTJrTXbJd</id>
-    <published>2026-11-16T00:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Juan Mata retires: Forward's lifelong bonds to Chelsea and London</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/from-the-archive-juan-matas-lifelong-bonds-to-chelsea-and-london"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1755797906/editorial/news/2025/08/21/Mata_GettyImages-169052408.jpg"/>
-    <id>tag:chelseafc.com,2026:news:36PEMYBqvVpTEfDVgaSIUn</id>
-    <published>2026-11-18T08:50:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Juan Mata retires: Free-kick vs Man Utd</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/juan-mata-retires"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794995571/video/2026/11/18/GettyImages-154873706.jpg"/>
-    <id>tag:chelseafc.com,2026:news:mTA65T9tsFllW0THj2WRW</id>
-    <published>2026-11-18T00:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Premier League ticket news: Loyalty point update for members - Manchester City away </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1765533979/editorial/stadium-views/other-clubs/Etihad_Stadium_aerial_view_November_2025.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5gyF9OJ24XpJ1jCTLiGOh</id>
-    <published>2026-11-17T09:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Donation points for That's Proper Chels campaign to continue at Saturday’s match</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/donation-points-for-thats-proper-chels-campaign-to-commence"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794935248/editorial/merchandise/Christmas%202026/2026_Foundation-Christmas-donation-article-men.jpg"/>
-    <id>tag:chelseafc.com,2026:news:38IsZzTdKWb2AJQufil8DE</id>
-    <published>2026-11-18T06:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
-    <summary>Article / Foundation / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>OTD: Geremi vs West Ham | 18 November 2006</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/otd-geremi-vs-west-ham-or-18-november-2006"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1763389735/video/2025/11/17/GEREMU_OTD.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4cpuilEjOcNvLHCHSwVnAr</id>
-    <published>2025-11-17T00:00:00Z</published>
-    <updated>2026-11-18T19:33:10Z</updated>
+    <updated>2026-11-19T01:28:13Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
