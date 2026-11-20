@@ -4,7 +4,7 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-19T18:35:18Z</updated>
+  <updated>2026-11-20T00:55:02Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
     <title>Andrew Pennie signs first professional contract</title>
@@ -12,8 +12,17 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795106421/editorial/news/2026/11/19/pennie-chelsea-contract-1.jpg"/>
     <id>tag:chelseafc.com,2026:news:Rctd82YVwvB4xj0xKfLVd</id>
     <published>2026-11-19T18:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Academy / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Chelsea FC joins with Zara to launch kidswear collection </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-fc-joins-with-zara-to-launch-kidswear-collection"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795101486/editorial/kit%20launches%202026-27/Zara/Zara_collection_1.jpg"/>
+    <id>tag:chelseafc.com,2026:news:FW43Y57xBkYLbNYk1sean</id>
+    <published>2026-11-19T22:00:00Z</published>
+    <updated>2026-11-20T00:55:02Z</updated>
+    <summary>Article / On sale / date-source:article</summary>
   </entry>
   <entry>
     <title>Training gallery: All together for Leeds</title>
@@ -21,7 +30,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795108199/editorial/news/2026/11/19/Rogers_DAR_2438.jpg"/>
     <id>tag:chelseafc.com,2026:news:21jYpOzoSrRbReaVMjTVMB</id>
     <published>2026-11-19T17:30:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -30,7 +39,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1738773488/editorial/stadium-views/other-clubs/Pride_Park_general_view_aerial.jpg"/>
     <id>tag:chelseafc.com,2026:news:2vhG2khuwlSRynDdSm23Cs</id>
     <published>2026-11-19T17:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Academy / date-source:article</summary>
   </entry>
   <entry>
@@ -39,7 +48,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795090399/editorial/news/2026/11/19/GettyImages-2305517718.jpg"/>
     <id>tag:chelseafc.com,2026:news:65vQ5miCa8vnldAJyNO83Y</id>
     <published>2026-11-19T16:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -48,7 +57,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795089102/editorial/news/2026/11/19/GettyImages-2305778958.jpg"/>
     <id>tag:chelseafc.com,2026:news:3en4vRyxZYSJINXklGBsYT</id>
     <published>2026-11-19T12:30:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -57,7 +66,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795005807/editorial/news/2026/11/18/GettyImages-2299731374.jpg"/>
     <id>tag:chelseafc.com,2026:news:NYT4wrriwsQhZhyxybgp1</id>
     <published>2026-11-19T12:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -66,7 +75,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794849233/video/2026/11/16/261119-ClassicMatch-Leeds.jpg"/>
     <id>tag:chelseafc.com,2026:news:qrfH1ncDEVVgZdmbyaxcS</id>
     <published>2026-11-16T00:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
@@ -75,7 +84,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795084856/editorial/news/2026/11/19/buurman-post-psg.jpg"/>
     <id>tag:chelseafc.com,2026:news:1YPiLwOuXnmHkqGDmD4CQo</id>
     <published>2026-11-19T11:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -84,7 +93,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795036370/editorial/women%27s-team/Match%20Reports/2026-27/PSG%20%28H%29/Chelsea_women_line_up_vs_PSG.jpg"/>
     <id>tag:chelseafc.com,2026:news:5rDezTR2zDCoc3tn8QY83R</id>
     <published>2026-11-19T10:10:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
@@ -93,7 +102,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795017106/editorial/Academy/CL2_0869-3473372_ywvPhrCr.jpg"/>
     <id>tag:chelseafc.com,2026:news:3jJSTJ5oAyGwLtMzHnTX8a</id>
     <published>2026-11-19T08:40:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Academy / date-source:article</summary>
   </entry>
   <entry>
@@ -102,16 +111,7 @@
     <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795019801/editorial/news/2026/11/18/GettyImages-2302428498.jpg"/>
     <id>tag:chelseafc.com,2026:news:28LQJR3X56JZ8iFqNLqeS8</id>
     <published>2026-11-19T08:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
+    <updated>2026-11-20T00:55:02Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Jordan Henderson interview</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/jordan-henderson-interview-or-premier-league-or-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795037356/video/2026/11/18/ENDSLATE_APPLIER.00_08_37_13.Still042.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2jMFdkqQlZJ6EZY225TPWU</id>
-    <published>2026-11-18T00:00:00Z</published>
-    <updated>2026-11-19T18:35:18Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
   </entry>
 </feed>
