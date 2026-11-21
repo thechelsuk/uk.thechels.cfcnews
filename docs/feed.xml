@@ -4,114 +4,114 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-21T12:26:11Z</updated>
+  <updated>2026-11-21T19:42:12Z</updated>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
-    <title>Chelsea Women's starting line up vs Liverpool confirmed</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-womens-starting-line-up-vs-liverpool-confirmed"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795259911/editorial/women%27s-team/Match%20Reports/2026-27/Liverpool%20WSL%20%28a%29/HAT14314_XHJnjBWb_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4WcZ1tXovRQ8w0jBwqc7Kx</id>
-    <published>2026-11-21T11:45:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>PL Highlights: Chelsea 1-4 Leeds United</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-chelsea-1-4-leeds-united-or-premier-league-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795281420/video/2026/21/HIGHLIGHTS.png"/>
+    <id>tag:chelseafc.com,2026:news:2ImMn6OIEfIndQM5BHChJv</id>
+    <published>2026-11-21T17:17:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
+    <summary>Video / Video / date-source:cloudinary-version</summary>
+  </entry>
+  <entry>
+    <title>WSL Highlights: Liverpool Women 0-0 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-highlights-liverpool-women-0-0-chelsea-women-or-womens-super-league"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795279847/video/2026/11/21/HLs_Liverpool_0-0_Chelsea_WSL_2026-27_v3.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2uF9ycciNwjo4EC3JUalvk</id>
+    <published>2026-11-21T00:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>WSL Full Match: Liverpool Women 0-0 Chelsea Women</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/wsl-full-match-liverpool-women-0-0-chelsea-women-wsl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795281791/video/2026/11/21/FULL_Liverpool_0-0_Chelsea_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7qrqQIg4mPgz7Qny9hfAIw</id>
+    <published>2026-11-21T00:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Alonso updates on Caicedo’s game changing injury</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-updates-on-caicedos-game-changing-injury"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795281686/editorial/match-reports/2026-27/Leeds%20home/GettyImages-2306225902.jpg"/>
+    <id>tag:chelseafc.com,2026:news:BeEysd5IZI4ZQmzBwaB39</id>
+    <published>2026-11-21T18:30:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Bompastor provides Mayra Ramirez and Manaka Matsukubo injury update</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-provides-mayra-ramirez-and-manaka-matsukubo-injury-update"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795280126/editorial/women%27s-team/Match%20Reports/2026-27/Liverpool%20WSL%20%28a%29/mayra-ramirez-stock.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4S4RCF4XXLW3jcayfm8Ujn</id>
+    <published>2026-11-21T17:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
-    <title>Alonso underlines importance of control on and off the ball</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-underlines-importance-of-control-on-and-off-the-ball"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795193897/editorial/news/2026/11/20/DTW_2246.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5IqBgpE3tFLqWYozJgi2M6</id>
-    <published>2026-11-21T09:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>Match report: Chelsea 1-4 Leeds</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-chelsea-1-4-leeds"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795275743/editorial/match-reports/2026-27/Leeds%20home/GettyImages-2306210909.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3lME90muOy2bPcyTf5j4qR</id>
+    <published>2026-11-21T16:30:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
-    <title>Chelsea vs Leeds Utd | Primed for battle at the Bridge</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/chelsea-vs-leeds-utd-or-hype-or-21-nov-2026"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795180195/video/2026/11/20/Pre-Leeds_hype_Thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5LWhxTAJV37EXS2ks1qFBY</id>
-    <published>2026-11-20T00:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>'Lola Brown is showing a lot of quality'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/sonia-bompastor-post-liverpool-women-0-0-chelsea-women-wsl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795278581/video/2026/11/21/16x9_Bompastor_post-Liverpool_0-0_Chelsea_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4YUDeEuI3KHFCrRAx9aH4a</id>
+    <published>2026-11-21T00:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
   </entry>
   <entry>
-    <title>Bompastor highlights Cuthbert's importance ahead of 'difficult' Liverpool test</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bompastor-highlights-cuthberts-importance-ahead-of-difficult-liverpool-test"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795177907/editorial/news/2026/11/20/GettyImages-2305517782.jpg"/>
-    <id>tag:chelseafc.com,2026:news:35rtTiMvs2jC4IqE20VNd5</id>
-    <published>2026-11-21T07:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>'We need more belief in front of goal'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/lucy-bronze-post-liverpool-women-0-0-chelsea-women-wsl-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795278581/video/2026/11/21/16x9_Bronze_post-Liverpool_0-0_Chelsea_WSL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4bKWX9wyN3CL8YFmMQN0h2</id>
+    <published>2026-11-21T00:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Match report: Liverpool 0-0 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-liverpool-0-0-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795272377/editorial/women%27s-team/Match%20Reports/2026-27/Liverpool%20WSL%20%28a%29/GettyImages-2305610475.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2nQcWCut9mwCmRazs2ITGJ</id>
+    <published>2026-11-21T14:50:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
   </entry>
   <entry>
-    <title>Chelsea vs Leeds: All you need to know</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-vs-leeds-all-you-need-to-know-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795112040/editorial/news/2026/11/19/GettyImages-2305077846.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1tuwSSrFx4cCt7xhHXCxc1</id>
-    <published>2026-11-21T06:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>Xabi Alonso on Emmanuel Emegha selection for Leeds clash</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-emmanuel-emegha-selection-for-leeds-clash"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795271157/GettyImages-2306196780_1_rjhnnf.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7FLIK1KRXxRUevcqBPcySh</id>
+    <published>2026-11-21T14:30:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
-    <title>Leeds game travel update – disruption on the Piccadilly and District Lines </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/leeds-game-travel-update-disruption-on-the-piccadilly-and-district-lines"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795093003/editorial/supporter%20liaison/fan%20info/London_Underground_Piccadilly_Line_trains.jpg"/>
-    <id>tag:chelseafc.com,2026:news:wDQnBw6EtjS6iQD1wy2zz</id>
-    <published>2026-11-20T08:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
-    <summary>Article / Travel news / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Donation points for That's Proper Chels campaign to continue at Saturday’s match</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/donation-points-for-thats-proper-chels-campaign-to-commence"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1794935248/editorial/merchandise/Christmas%202026/2026_Foundation-Christmas-donation-article-men.jpg"/>
-    <id>tag:chelseafc.com,2026:news:38IsZzTdKWb2AJQufil8DE</id>
-    <published>2026-11-18T06:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
-    <summary>Article / Foundation / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Latest update on James and Lacroix returns from Alonso</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/latest-update-on-james-and-lacroix-returns-from-alonso"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795190614/editorial/news/2026/11/20/DTW_4860.jpg"/>
-    <id>tag:chelseafc.com,2026:news:v9pdfptvSZpnkkGoZEbON</id>
-    <published>2026-11-20T22:30:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>Confirmed Chelsea line up vs Leeds</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-leeds"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795268767/editorial/news/2026/11/20/DAR_3440-3495645.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2NvpgeO0ogzo3KEBpMfuJg</id>
+    <published>2026-11-21T13:45:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
   <entry>
-    <title>Penders reflects on PL Save of the Month</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/penders-reflects-on-pl-save-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795202236/video/2026/11/20/Penders-SOTM-Thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1rwbSCet8us4MDaQ5cjN7X</id>
-    <published>2026-11-20T00:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
+    <title>U18 Premier League Full Match: Chelsea U18s vs Arsenal U18s</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-pl-full-match-chelsea-u18-vs-arsenal-u18-u18-premier-league-2026-27-21-"/>
+    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795269727/video/2026/11/21/FULL_MATCH_ARSENAL_U18.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3ClGs1GbZ1jVRyQWMJKhDi</id>
+    <published>2026-11-21T00:00:00Z</published>
+    <updated>2026-11-21T19:42:12Z</updated>
     <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Alonso says Blues are ‘building an identity’ but need consistency</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-says-blues-are-building-an-identity-but-need-consistency"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795187310/editorial/news/2026/11/20/alonso-training-nov-26.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7nBAYLnjh1dCsxMq4UZRPx</id>
-    <published>2026-11-20T18:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Cobham Unseen: pre-Leeds Utd (h)</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/cobham-unseen-pre-leeds-utd-h-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795195363/video/2026/11/20/261120-CobhamUnseen_Thumbnail.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7g6WDWvoNgM76pyqdTKnfF</id>
-    <published>2026-11-20T00:00:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Training gallery: Blues make last preparations for Leeds</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/training-gallery-blues-make-last-preparations-for-leeds"/>
-    <link rel="enclosure" type="image/jpeg" href="http://img.chelseafc.com/image/upload/v1795191890/editorial/news/2026/11/20/martinez-penders-training-nov-26-169.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1W9QdmibusUyQlOISvomoC</id>
-    <published>2026-11-20T16:45:00Z</published>
-    <updated>2026-11-21T12:26:11Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
   </entry>
 </feed>
