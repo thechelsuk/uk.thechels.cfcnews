@@ -20,7 +20,8 @@ IMPORTANT LIMITATIONS (verified against live API response):
     2. The Cloudinary asset version number in the thumbnail URL
        (e.g. "v1785686546"), which is a Unix timestamp of when the image
        was uploaded - usually same-day as publish, but not guaranteed.
-    3. Fallback: current time (script run time), same as <updated>.
+    3. Fallback: the time the story was first seen, kept in the dates cache
+       (else the script run time).
   This is NOT a verified article-publish timestamp. Treat it as an estimate.
 
 Usage:
@@ -46,6 +47,7 @@ SITE_BASE = "https://www.chelseafc.com"
 FEED_TITLE = "Chelsea FC - Latest News"
 FEED_ALT_LINK = "https://www.chelseafc.com/en/news/latest-news"
 FEED_SUBTITLE = "Unofficial Atom feed generated from Chelsea FC's news listing API."
+FEED_AUTHOR = "thechelsuk"
 FEED_ID = "tag:chelseafc.com,2026:latest-news"
 
 HEADERS = {
@@ -165,13 +167,23 @@ def _item_id(item: dict) -> str:
     return item.get("id") or hashlib.sha1(_link(item).encode()).hexdigest()
 
 
-def resolve_dates(items: list[dict], cache: dict, fetch=fetch_page, max_fetch: int = 40) -> dict:
+def _utc_now() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def resolve_dates(items: list[dict], cache: dict, fetch=fetch_page, max_fetch: int = 40, now: str | None = None) -> dict:
     """Adds the real date for each item not yet in the cache. A failed fetch is retried next run; a page without a
-    date is remembered so it isn't fetched again."""
+    date is remembered so it isn't fetched again. Stories with no date are stamped with the time first seen, so
+    their date stays the same on every later run."""
+    now = now or _utc_now()
     fetched = 0
     for item in items:
         item_id = _item_id(item)
-        if item_id in cache or fetched >= max_fetch:
+        if item_id in cache:
+            if not cache[item_id].get("date"):
+                cache[item_id].setdefault("first_seen", now)
+            continue
+        if fetched >= max_fetch:
             continue
         fetched += 1
         try:
@@ -180,7 +192,10 @@ def resolve_dates(items: list[dict], cache: dict, fetch=fetch_page, max_fetch: i
             print(f"WARNING: no page for {_link(item)}: {e}", file=sys.stderr)
             continue
         date = article_date(page)
-        cache[item_id] = {"date": date, "source": "article" if date else "none"}
+        entry = {"date": date, "source": "article" if date else "none"}
+        if not date:
+            entry["first_seen"] = now
+        cache[item_id] = entry
     return cache
 
 
@@ -221,6 +236,8 @@ def normalise(item: dict, now_str: str, dates: dict | None = None) -> dict:
         published, method = known["date"], "article"
     else:
         published, method = extract_published(item, now_str)
+        if method == "fallback-now" and known.get("first_seen"):
+            published, method = known["first_seen"], "first-seen"
 
     return {
         "id": item_id,
@@ -234,16 +251,22 @@ def normalise(item: dict, now_str: str, dates: dict | None = None) -> dict:
     }
 
 
+def _https(url: str) -> str:
+    return "https://" + url[len("http://"):] if url.startswith("http://") else url
+
+
 def build_atom(items: list[dict], self_url: str, dates: dict | None = None) -> str:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     entries = []
+    newest = ""
     for it in items:
         n = normalise(it, now, dates)
+        newest = max(newest, n["published"])
         summary_bits = [n["type"], n["category"], f"date-source:{n['date_method']}"]
         summary = " / ".join(b for b in summary_bits if b)
         thumb_link = (
-            f'<link rel="enclosure" type="image/jpeg" href="{escape(n["thumbnail"])}"/>'
+            f'<link rel="enclosure" type="image/jpeg" href="{escape(_https(n["thumbnail"]))}"/>'
             if n["thumbnail"]
             else ""
         )
@@ -254,7 +277,7 @@ def build_atom(items: list[dict], self_url: str, dates: dict | None = None) -> s
     {thumb_link}
     <id>tag:chelseafc.com,2026:news:{escape(n['id'])}</id>
     <published>{n['published']}</published>
-    <updated>{now}</updated>
+    <updated>{n['published']}</updated>
     <summary>{escape(summary)}</summary>
   </entry>""")
 
@@ -266,7 +289,8 @@ def build_atom(items: list[dict], self_url: str, dates: dict | None = None) -> s
   <link rel="alternate" href="{escape(FEED_ALT_LINK)}"/>
   {self_link}
   <id>{escape(FEED_ID)}</id>
-  <updated>{now}</updated>
+  <updated>{newest or now}</updated>
+  <author><name>{escape(FEED_AUTHOR)}</name></author>
   <subtitle>{escape(FEED_SUBTITLE)}</subtitle>{''.join(entries)}
 </feed>
 """
