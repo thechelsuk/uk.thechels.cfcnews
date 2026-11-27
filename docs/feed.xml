@@ -8,6 +8,78 @@
   <author><name>thechelsuk</name></author>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
   <entry>
+    <title>Football hospitality tickets – Club Chelsea’s VIP Premier League package gifting and Blue Friday offers are here</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/football-hospitality-tickets-club-chelseas-vip-premier-league-package"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795425503/editorial/venue/Hospo/Club_Chelsea_Hospitality-Gift-Voucher_Nov_2026.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5a4BakTpPxmGlNEuHtcAoe</id>
+    <published>2026-11-27T11:15:00Z</published>
+    <updated>2026-11-27T11:15:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Chelsea star Katie McCabe nominated for WSL Player of the Month</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-star-katie-mccabe-nominated-for-wsl-player-of-the-month"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795611523/editorial/news/2026/11/25/GettyImages-2302053281.jpg"/>
+    <id>tag:chelseafc.com,2026:news:3og8uvPq2WBaDDrBc8ev9B</id>
+    <published>2026-11-27T11:00:00Z</published>
+    <updated>2026-11-27T11:00:00Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>We’ve got your matchday covered in the Chelsea Official App!</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png"/>
+    <id>tag:chelseafc.com,2026:news:7gQMZPNK3EhrK3LO2qvfbl</id>
+    <published>2026-11-27T09:00:00Z</published>
+    <updated>2026-11-27T09:00:00Z</updated>
+    <summary>Article / Club / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Alonso urges focus and concentration ahead of Nottingham Forest </title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-urges-focus-and-concentration-ahead-of-nottingham-forest"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795724701/editorial/news/2026/11/26/GettyImages-2306272894.jpg"/>
+    <id>tag:chelseafc.com,2026:news:exkTUQRLpDmBd0fRjsFuE</id>
+    <published>2026-11-27T09:00:00Z</published>
+    <updated>2026-11-27T09:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Nottingham Forest vs Chelsea | Focused on three points</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/hype-pre-nottingham-forest-a-premier-league-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795775296/video/2026/11/27/Screenshot_2026-11-27_at_10.15.30.png"/>
+    <id>tag:chelseafc.com,2026:news:4ptX8INkR0RXhQJlcfHyWR</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Nottingham Forest vs Chelsea: All you need to know</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-all-you-need-to-know-26-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795718291/editorial/news/2026/11/26/GettyImages-2300807907.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4MNJLiSeLmnt1OsqA98Mpp</id>
+    <published>2026-11-27T06:00:00Z</published>
+    <updated>2026-11-27T06:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>OTD: Rare John Terry brace helps Chelsea thump Charlton</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/otd-rare-john-terry-brace-helps-chelsea-thump-charlton"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1764236796/editorial/news/2025/11/27/john-terry-charlton-2004-celebration.jpg"/>
+    <id>tag:chelseafc.com,2026:news:7FKpxRaPCFrjOiQw5Ob8No</id>
+    <published>2026-11-27T02:00:00Z</published>
+    <updated>2026-11-27T02:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Cobham Unseen: pre-Nottingham Forest (a)</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/cobham-unseen-pre-nottingham-forest-a-premier-league-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795777760/video/2026/11/27/cobham_unseen_updatedddd.png"/>
+    <id>tag:chelseafc.com,2026:news:70weDClbgGyborj6ZIHup5</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
     <title>What kit are Chelsea wearing against Nottingham Forest?</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/what-kit-are-chelsea-wearing-against-nottingham-forest"/>
     <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795718294/editorial/news/2026/11/26/GettyImages-2303986393.jpg"/>
@@ -42,77 +114,5 @@
     <published>2026-11-26T17:00:00Z</published>
     <updated>2026-11-26T17:00:00Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Ibrahim Rabbaj helps Morocco into knockout stage at Under-17 World Cup</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/ibrahim-rabbaj-helps-morocco-into-knockout-stage-at-under-17-world-cup"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795717857/editorial/news/2026/11/26/a6284dbf-3bb6-4821-a1eb-5863b8bf352b_16x9.jpg"/>
-    <id>tag:chelseafc.com,2026:news:2zLDkUhfaMzqpp2C9Dn3Za</id>
-    <published>2026-11-26T16:45:00Z</published>
-    <updated>2026-11-26T16:45:00Z</updated>
-    <summary>Article / Academy / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso calls for a 'strong, competitive reaction' at Forest</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-calls-for-a-strong-competitive-reaction-at-forest"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795709332/editorial/news/2026/11/26/GettyImages-2306272662.jpg"/>
-    <id>tag:chelseafc.com,2026:news:7Ch0wEmFkFRVyZYuGv9vJp</id>
-    <published>2026-11-26T15:00:00Z</published>
-    <updated>2026-11-26T15:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Alonso Press Conference 🎙️</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/alonso-press-conference-pre-nottingham-forest-a-epl-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795708759/video/2026/11/26/261126-Presser_BlueBar.V2.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4KFOGhmjKjZcoPpBOlGomQ</id>
-    <published>2026-11-26T00:00:00Z</published>
-    <updated>2026-11-26T00:00:00Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso confirms Chelsea team news for Nottingham Forest</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-nottingham-forest"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795702712/editorial/news/2026/11/26/Xabi_Alonso_press_conference.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5uGokJP2lqv3wJ8QljDRtv</id>
-    <published>2026-11-26T13:55:00Z</published>
-    <updated>2026-11-26T13:55:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Free ticket offer for new year Chelsea Women Academy game</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/free-ticket-offer-for-new-year-chelsea-women-academy-game"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795452712/editorial/news/2026/11/23/abayomi-cfcw-u18.jpg"/>
-    <id>tag:chelseafc.com,2026:news:36AL6Kt5KIU0JjdzQrbQtL</id>
-    <published>2026-11-26T12:00:00Z</published>
-    <updated>2026-11-26T12:00:00Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Chavarria: We're going to treat it like it's the last game we play</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chavarria-were-going-to-treat-it-like-its-the-last-game-we-play"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795700974/editorial/news/2026/11/26/GettyImages-2306316739.jpg"/>
-    <id>tag:chelseafc.com,2026:news:S6dmJPMQRYDZKbWpFRcKx</id>
-    <published>2026-11-26T12:00:00Z</published>
-    <updated>2026-11-26T12:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Unlock Stamford Bridge this Blue Friday</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/unlock-stamford-bridge-this-blue-friday"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1794410823/editorial/merchandise/Blue%20Friday%202026/Blue_Friday_promo_2026_header.png"/>
-    <id>tag:chelseafc.com,2026:news:7nnTnMR7vcxKH7mCLmJF2w</id>
-    <published>2026-11-26T11:15:00Z</published>
-    <updated>2026-11-26T11:15:00Z</updated>
-    <summary>Article / On sale / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Bjorn back stronger than ever for club and country</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/bjorn-back-stronger-than-ever-for-club-and-country"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795624972/editorial/news/2026/11/25/GettyImages-2300019971.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5kMOzrhb7ozrtRMKgp0etp</id>
-    <published>2026-11-26T11:00:00Z</published>
-    <updated>2026-11-26T11:00:00Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
   </entry>
 </feed>
