@@ -4,9 +4,72 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-27T19:25:00Z</updated>
+  <updated>2026-11-27T23:00:00Z</updated>
   <author><name>thechelsuk</name></author>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>PL Highlights: Nottingham Forest 3-2 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-nottingham-forest-3-2-chelsea-or-premier-league-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795823834/video/2026/11/27/2MINS_Nottingham_Forest_3-2_Chelsea_EPL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4Fv01ZDgIeUFB6Gxl0hniw</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>PL Extended: Nottingham Forest 3-2 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-extended-nottingham-forest-3-2-chelsea-or-premier-league-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795825778/video/2026/11/27/EXT_Nottingham_Forest_3-2_Chelsea_EPL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:76YGaDtICIFyxpFozflwsQ</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>PL Full Match: Nottingham Forest vs Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-full-match-nottingham-forest-vs-chelsea-or-premier-league-or-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795825781/video/2026/11/27/FULL_Nottingham_Forest_3-2_Chelsea_EPL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2vIBxk9PFGsLoHsN05GxZb</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>'Not many things are going our way'</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/alonso-post-nottingham-forest-3-2-chelsea-premier-league-2026-27"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795826615/video/2026/11/27/16x9_Alonso_post-Nottingham_Forest_3-2_Chelsea_EPL_2026-27.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2d4pzMVsGNouGckmXz6oLB</id>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>Xabi Alonso: ‘It’s a difficult moment for everyone’</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-its-a-difficult-moment-for-everyone"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795819886/editorial/match-reports/2026-27/Nottingham%20Forest%20%28a%29/alonso-forest-a.jpg"/>
+    <id>tag:chelseafc.com,2026:news:33MjTytuX8kWrpTwgvWXin</id>
+    <published>2026-11-27T23:00:00Z</published>
+    <updated>2026-11-27T23:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Match report: Nottingham Forest 3-2 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-nottingham-forest-3-2-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795816819/editorial/match-reports/2026-27/Nottingham%20Forest%20%28a%29/GettyImages-2307171963.jpg"/>
+    <id>tag:chelseafc.com,2026:news:4N7DhuaOgDZoaMLNqgQxiD</id>
+    <published>2026-11-27T22:00:00Z</published>
+    <updated>2026-11-27T22:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Premier League 2 report: Norwich City 2-5 Chelsea Cobham Next Gen</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-2-report-norwich-city-2-5-chelsea-cobham-next-gen"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795810861/editorial/Academy/HAT20016_mTH3PvnP_copy.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1LuqiLVZfOeMhv5Bys4lNf</id>
+    <published>2026-11-27T21:53:15Z</published>
+    <updated>2026-11-27T21:53:15Z</updated>
+    <summary>Article / Academy / date-source:article</summary>
+  </entry>
   <entry>
     <title>Xabi Alonso on changes for Forest and 'fundamentals of football'</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-changes-for-forest-and-fundamentals-of-football"/>
@@ -51,68 +114,5 @@
     <published>2026-11-27T13:00:00Z</published>
     <updated>2026-11-27T13:00:00Z</updated>
     <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Vote for Sandy Baltimore to win WSL Goal of the Month award!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/vote-for-sandy-baltimore-to-win-wsl-goal-of-the-month-award"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795617260/editorial/news/2026/11/25/baltimore-goal-man-city.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1q5nDulAnUbRa8RJnRzdc1</id>
-    <published>2026-11-27T13:00:00Z</published>
-    <updated>2026-11-27T13:00:00Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Football hospitality tickets – Club Chelsea’s VIP Premier League package gifting and Blue Friday offers are here</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/football-hospitality-tickets-club-chelseas-vip-premier-league-package"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795425503/editorial/venue/Hospo/Club_Chelsea_Hospitality-Gift-Voucher_Nov_2026.jpg"/>
-    <id>tag:chelseafc.com,2026:news:5a4BakTpPxmGlNEuHtcAoe</id>
-    <published>2026-11-27T11:15:00Z</published>
-    <updated>2026-11-27T11:15:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Chelsea star Katie McCabe nominated for WSL Player of the Month</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/chelsea-star-katie-mccabe-nominated-for-wsl-player-of-the-month"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795611523/editorial/news/2026/11/25/GettyImages-2302053281.jpg"/>
-    <id>tag:chelseafc.com,2026:news:3og8uvPq2WBaDDrBc8ev9B</id>
-    <published>2026-11-27T11:00:00Z</published>
-    <updated>2026-11-27T11:00:00Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>We’ve got your matchday covered in the Chelsea Official App!</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png"/>
-    <id>tag:chelseafc.com,2026:news:7gQMZPNK3EhrK3LO2qvfbl</id>
-    <published>2026-11-27T09:00:00Z</published>
-    <updated>2026-11-27T09:00:00Z</updated>
-    <summary>Article / Club / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Alonso urges focus and concentration ahead of Nottingham Forest </title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/alonso-urges-focus-and-concentration-ahead-of-nottingham-forest"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795724701/editorial/news/2026/11/26/GettyImages-2306272894.jpg"/>
-    <id>tag:chelseafc.com,2026:news:exkTUQRLpDmBd0fRjsFuE</id>
-    <published>2026-11-27T09:00:00Z</published>
-    <updated>2026-11-27T09:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Nottingham Forest vs Chelsea | Focused on three points</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/video/hype-pre-nottingham-forest-a-premier-league-2026-27"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795775296/video/2026/11/27/Screenshot_2026-11-27_at_10.15.30.png"/>
-    <id>tag:chelseafc.com,2026:news:4ptX8INkR0RXhQJlcfHyWR</id>
-    <published>2026-11-27T00:00:00Z</published>
-    <updated>2026-11-27T00:00:00Z</updated>
-    <summary>Video / Video / date-source:path-date</summary>
-  </entry>
-  <entry>
-    <title>Nottingham Forest vs Chelsea: All you need to know</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-all-you-need-to-know-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795718291/editorial/news/2026/11/26/GettyImages-2300807907.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4MNJLiSeLmnt1OsqA98Mpp</id>
-    <published>2026-11-27T06:00:00Z</published>
-    <updated>2026-11-27T06:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
   </entry>
 </feed>
