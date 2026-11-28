@@ -4,9 +4,36 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-27T23:00:00Z</updated>
+  <updated>2026-11-28T10:00:00Z</updated>
   <author><name>thechelsuk</name></author>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Internationals: Thompson and Spencer seal World Cup spots</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/thompson-and-spencer-seal-womens-world-cup-spots"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795865347/editorial/news/2026/11/28/GettyImages-2307192037.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6rLQ48TDSU1bpac9AJKkau</id>
+    <published>2026-11-28T10:00:00Z</published>
+    <updated>2026-11-28T10:00:00Z</updated>
+    <summary>Article / Women's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Xabi Alonso on the impact and desire of Emmanuel Emegha</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-the-impact-and-desire-of-emmanuel-emegha"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795821547/editorial/match-reports/2026-27/Nottingham%20Forest%20%28a%29/Emegha_celebrates_vs_Forest.jpg"/>
+    <id>tag:chelseafc.com,2026:news:1WqyKsihUO9xdJkD2CkV85</id>
+    <published>2026-11-28T08:00:00Z</published>
+    <updated>2026-11-28T08:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Henderson: Chelsea must improve quickly after Forest defeat</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/henderson-chelsea-must-improve-quickly-after-forest-defeat"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795820971/editorial/news/2026/11/27/GettyImages-2307175459.jpg"/>
+    <id>tag:chelseafc.com,2026:news:2NUaYLbX6P5Vd7WOsgMAW5</id>
+    <published>2026-11-28T06:00:00Z</published>
+    <updated>2026-11-28T06:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
   <entry>
     <title>PL Highlights: Nottingham Forest 3-2 Chelsea</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/video/pl-highlights-nottingham-forest-3-2-chelsea-or-premier-league-or-2026-27"/>
@@ -87,32 +114,5 @@
     <published>2026-11-27T18:45:00Z</published>
     <updated>2026-11-27T18:45:00Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Nottingham Forest vs Chelsea preview: TV channel, kick-off time and how to watch</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-preview-tv-channel-kick-off-time-watch-26-27"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795530838/editorial/news/2026/11/24/GettyImages-2306316708.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4QJDOTC01NZluzomlfgpMz</id>
-    <published>2026-11-27T16:00:00Z</published>
-    <updated>2026-11-27T16:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Check out our Stadium Tours offers for Blue Friday</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/check-out-our-stadium-tours-offers-for-blue-friday"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795792074/editorial/venue/Tours%20and%20Museum/Stadium_Tours_press_room.jpg"/>
-    <id>tag:chelseafc.com,2026:news:35e28SWM303SPv9LOxIdUN</id>
-    <published>2026-11-27T16:00:00Z</published>
-    <updated>2026-11-27T16:00:00Z</updated>
-    <summary>Article / Stadium Tours / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Concacaf W Championship: Chelsea players, fixtures and World Cup qualifying explained</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/concacaf-w-championship-chelsea-players-fixtures-and-world-cup-qualifying"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795718779/editorial/news/2026/11/26/GettyImages-2265967696.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6nFBZdZ1hWajCKm8UCpowV</id>
-    <published>2026-11-27T13:00:00Z</published>
-    <updated>2026-11-27T13:00:00Z</updated>
-    <summary>Article / Women's Team / date-source:article</summary>
   </entry>
 </feed>
