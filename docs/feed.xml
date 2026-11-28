@@ -4,9 +4,45 @@
   <link rel="alternate" href="https://www.chelseafc.com/en/news/latest-news"/>
   <link rel="self" href="https://cfcnews.thechels.uk/feed.xml"/>
   <id>tag:chelseafc.com,2026:latest-news</id>
-  <updated>2026-11-28T10:00:00Z</updated>
+  <updated>2026-11-28T13:00:00Z</updated>
   <author><name>thechelsuk</name></author>
   <subtitle>Unofficial Atom feed generated from Chelsea FC's news listing API.</subtitle>
+  <entry>
+    <title>Under-18 Premier League report: Crystal Palace 0-1 Chelsea</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/under-18-premier-league-report-crystal-palace-0-1-chelsea"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795867966/editorial/Academy/CL1_8953-3511022_SpYsKBAM.jpg"/>
+    <id>tag:chelseafc.com,2026:news:5ElaHhKsUlSwNyWWxiwhqJ</id>
+    <published>2026-11-28T13:00:00Z</published>
+    <updated>2026-11-28T13:00:00Z</updated>
+    <summary>Article / U18s / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>Henderson: Emegha gives us something different</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/henderson-emegha-gives-us-something-different"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795870524/editorial/news/2026/11/28/GettyImages-2307171152.jpg"/>
+    <id>tag:chelseafc.com,2026:news:6mhwMQStjzVSTRtUTd5zqb</id>
+    <published>2026-11-28T12:00:00Z</published>
+    <updated>2026-11-28T12:00:00Z</updated>
+    <summary>Article / Men's Team / date-source:article</summary>
+  </entry>
+  <entry>
+    <title>U18 PL Highlights: Crystal Palace U18 vs Chelsea U18</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-pl-highlights-crystal-palace-u18-vs-chelsea-u18-u18-premier-league-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795876685/video/2026/11/28/HIGHLIGHTS_CRY_U18.jpg"/>
+    <id>tag:chelseafc.com,2026:news:54hEzblkEZU1cXGUt4nKJH</id>
+    <published>2026-11-28T00:00:00Z</published>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
+  <entry>
+    <title>U18 PL Full Match: Crystal Palace U18 vs Chelsea U18</title>
+    <link rel="alternate" href="https://www.chelseafc.com/en/video/u18-pl-full-match-crystal-palace-u18-vs-chelsea-u18-u18-premier-league-2026"/>
+    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795876685/video/2026/11/28/FULL_MATCH_CRY_U18.jpg"/>
+    <id>tag:chelseafc.com,2026:news:NICIgGrnwyyEuQFUIctuS</id>
+    <published>2026-11-28T00:00:00Z</published>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>Video / Video / date-source:path-date</summary>
+  </entry>
   <entry>
     <title>Internationals: Thompson and Spencer seal World Cup spots</title>
     <link rel="alternate" href="https://www.chelseafc.com/en/news/article/thompson-and-spencer-seal-womens-world-cup-spots"/>
@@ -77,42 +113,6 @@
     <id>tag:chelseafc.com,2026:news:33MjTytuX8kWrpTwgvWXin</id>
     <published>2026-11-27T23:00:00Z</published>
     <updated>2026-11-27T23:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Match report: Nottingham Forest 3-2 Chelsea</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/match-report-nottingham-forest-3-2-chelsea"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795816819/editorial/match-reports/2026-27/Nottingham%20Forest%20%28a%29/GettyImages-2307171963.jpg"/>
-    <id>tag:chelseafc.com,2026:news:4N7DhuaOgDZoaMLNqgQxiD</id>
-    <published>2026-11-27T22:00:00Z</published>
-    <updated>2026-11-27T22:00:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Premier League 2 report: Norwich City 2-5 Chelsea Cobham Next Gen</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/premier-league-2-report-norwich-city-2-5-chelsea-cobham-next-gen"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795810861/editorial/Academy/HAT20016_mTH3PvnP_copy.jpg"/>
-    <id>tag:chelseafc.com,2026:news:1LuqiLVZfOeMhv5Bys4lNf</id>
-    <published>2026-11-27T21:53:15Z</published>
-    <updated>2026-11-27T21:53:15Z</updated>
-    <summary>Article / Academy / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Xabi Alonso on changes for Forest and 'fundamentals of football'</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/xabi-alonso-on-changes-for-forest-and-fundamentals-of-football"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795807241/editorial/news/2026/11/26/Xabi_Alonso_City_ground.jpg"/>
-    <id>tag:chelseafc.com,2026:news:VHdRcoa4ZQxMiDo6oO833</id>
-    <published>2026-11-27T19:25:00Z</published>
-    <updated>2026-11-27T19:25:00Z</updated>
-    <summary>Article / Men's Team / date-source:article</summary>
-  </entry>
-  <entry>
-    <title>Confirmed Chelsea line up vs Nottingham Forest</title>
-    <link rel="alternate" href="https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-nottingham-forest-271126"/>
-    <link rel="enclosure" type="image/jpeg" href="https://img.chelseafc.com/image/upload/v1795803524/editorial/match-reports/2026-27/Nottingham%20Forest%20%28a%29/forest-a-dressing-room.jpg"/>
-    <id>tag:chelseafc.com,2026:news:6u5KSJnmSVq5KLRq5miMWR</id>
-    <published>2026-11-27T18:45:00Z</published>
-    <updated>2026-11-27T18:45:00Z</updated>
     <summary>Article / Men's Team / date-source:article</summary>
   </entry>
 </feed>
